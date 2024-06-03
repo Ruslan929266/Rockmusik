@@ -1,2 +1,2 @@
 # Metall
- Ein website fur s Schule
+ Ein website fur die Schule
